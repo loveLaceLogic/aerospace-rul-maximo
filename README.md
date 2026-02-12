@@ -1,4 +1,4 @@
-# Aerospace RUL Prediction + IBM Maximo Integration
+# Aerospace RUL Prediction
 
 ## Overview
 
