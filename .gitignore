@@ -1,5 +1,4 @@
-cat > .gitignore << 'EOF'
-# Virtual environments
+# Virtual environment
 .venv/
 venv/
 
@@ -7,6 +6,17 @@ venv/
 __pycache__/
 *.pyc
 
-# Mac
+# MacOS
 .DS_Store
-EOF
+
+# Large model files (optional)
+# Uncomment if needed
+# models/*.pt
+# models/*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
