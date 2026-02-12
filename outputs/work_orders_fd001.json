@@ -1,0 +1,65 @@
+[
+  {
+    "asset_id": "ENGINE-031",
+    "predicted_rul_cycles": 28.40090560913086,
+    "maintenance_type": "Preventive",
+    "priority": "High",
+    "issue": "Predicted low remaining useful life",
+    "timestamp": "2026-02-11T22:59:23.459344Z",
+    "integration_note": "Simulated payload for IBM Maximo EAM interface"
+  },
+  {
+    "asset_id": "ENGINE-034",
+    "predicted_rul_cycles": 24.571840286254883,
+    "maintenance_type": "Preventive",
+    "priority": "High",
+    "issue": "Predicted low remaining useful life",
+    "timestamp": "2026-02-11T22:59:23.459353Z",
+    "integration_note": "Simulated payload for IBM Maximo EAM interface"
+  },
+  {
+    "asset_id": "ENGINE-035",
+    "predicted_rul_cycles": 28.92544174194336,
+    "maintenance_type": "Preventive",
+    "priority": "High",
+    "issue": "Predicted low remaining useful life",
+    "timestamp": "2026-02-11T22:59:23.459355Z",
+    "integration_note": "Simulated payload for IBM Maximo EAM interface"
+  },
+  {
+    "asset_id": "ENGINE-042",
+    "predicted_rul_cycles": 24.24111557006836,
+    "maintenance_type": "Preventive",
+    "priority": "High",
+    "issue": "Predicted low remaining useful life",
+    "timestamp": "2026-02-11T22:59:23.459357Z",
+    "integration_note": "Simulated payload for IBM Maximo EAM interface"
+  },
+  {
+    "asset_id": "ENGINE-061",
+    "predicted_rul_cycles": 27.88502311706543,
+    "maintenance_type": "Preventive",
+    "priority": "High",
+    "issue": "Predicted low remaining useful life",
+    "timestamp": "2026-02-11T22:59:23.459360Z",
+    "integration_note": "Simulated payload for IBM Maximo EAM interface"
+  },
+  {
+    "asset_id": "ENGINE-081",
+    "predicted_rul_cycles": 25.998722076416016,
+    "maintenance_type": "Preventive",
+    "priority": "High",
+    "issue": "Predicted low remaining useful life",
+    "timestamp": "2026-02-11T22:59:23.459363Z",
+    "integration_note": "Simulated payload for IBM Maximo EAM interface"
+  },
+  {
+    "asset_id": "ENGINE-082",
+    "predicted_rul_cycles": 28.969379425048828,
+    "maintenance_type": "Preventive",
+    "priority": "High",
+    "issue": "Predicted low remaining useful life",
+    "timestamp": "2026-02-11T22:59:23.459364Z",
+    "integration_note": "Simulated payload for IBM Maximo EAM interface"
+  }
+]
